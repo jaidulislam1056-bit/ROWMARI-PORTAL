@@ -1,0 +1,6 @@
+{
+  "name": "Rowmari Upazila Portal | রৌমারী উপজেলা",
+  "description": "Comprehensive digital portal and interactive map for Rowmari Upazila, Kurigram. Developed by Jaidul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
